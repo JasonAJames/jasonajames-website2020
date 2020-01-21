@@ -23,6 +23,8 @@ h1 {
 	background-color: #000066;	
 	background-image:url(//www.jasonajames.com/resume/Header_BG.gif);
 	background-repeat:repeat-x;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
 }
 
 address {
@@ -50,6 +52,8 @@ main {
 	border-left: ridge 3px #900;
 	border-bottom: ridge 3px #900;
 	border-right: ridge 3px #900;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 th {
