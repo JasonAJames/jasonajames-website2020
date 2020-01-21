@@ -1,0 +1,9 @@
+article {
+    padding: 10px 30px 150% 25px;
+    background: #fff;
+    line-height: 1.2;
+    border-left: ridge 3px #900;
+    font-family: Arial;
+    min-height: 500px;
+    min-width: 360px;
+}

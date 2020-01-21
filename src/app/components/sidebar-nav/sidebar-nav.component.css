@@ -1,0 +1,20 @@
+nav {
+	position:absolute;
+	padding:5px;
+	width:130px;
+	float:left;
+	line-height:45px;
+	font: arial;
+	font-size:1.2em;
+	font-weight:bold;	
+	z-index: 1;
+}
+a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+a:hover {
+	color: #FFFF00;
+	text-decoration: underline;
+}

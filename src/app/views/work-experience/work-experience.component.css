@@ -1,0 +1,92 @@
+body {
+	margin: 0;
+	background-color: #DDBA81;
+	color: black;
+}
+
+header {
+	background-color: #DDBA81;
+	padding: 50px 0 0 0;
+}
+
+h1 {
+	margin: 0 auto;
+	padding: 0;
+	font: arial 4em;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 1.25;
+	border-top: 3px ridge #041666;
+	border-left: 3px ridge #041666;
+	border-right: 3px ridge #041666;
+	border-bottom:0px;
+	background-color: #000066;	
+	background-image:url(//www.jasonajames.com/resume/Header_BG.gif);
+	background-repeat:repeat-x;
+}
+
+address {
+	margin: 0 auto;
+	padding: 0;
+	font: arial 4em;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 1.25;
+	border-top: 0px;
+	border-left: 3px ridge #041666;
+	border-right: 3px ridge #041666;
+	border-bottom:3px ridge #041666;
+	background-color: #000066;	
+	background-image:url(//www.jasonajames.com/resume/Header_BG.gif);
+	background-repeat:repeat-x;
+}
+
+main {
+	overflow: auto;
+	display: block;
+	margin: 0 auto;
+	padding: 0 0 0 0px;
+	background-image: url(//www.jasonajames.com/resume/Nav_BG.gif);
+	border-left: ridge 3px #900;
+	border-bottom: ridge 3px #900;
+	border-right: ridge 3px #900;
+}
+
+th {
+	color:#7F2515;
+}
+
+section {
+	padding-left:140px;
+	z-index: 2;	
+}
+
+article {
+	padding:10px 25px 15px 25px;
+	background:#fff;
+	line-height:1.2;	
+	border-left: ridge 3px #900;
+	font-family:Arial;
+	min-height: 500px;
+}
+
+footer {
+	clear:both;	
+}
+
+footer p {
+	margin: 0 auto;
+	padding: 5px 0;
+	font: cabin 1.1em;
+	text-align: right;
+	background: #DDBA81;
+}
+a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+a:hover {
+	color: #FFFF00;
+	text-decoration: underline;
+}
